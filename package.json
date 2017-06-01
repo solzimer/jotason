@@ -1,0 +1,21 @@
+{
+  "name": "jotason",
+  "version": "0.0.1",
+  "description": "Overpowered json",
+  "author": "David Gómez Matarrodona <solzimer@gmail.com>",
+  "url": "https://github.com/owner/project/issues",
+  "email": "solzimer@gmail.com",
+  "main": "main.js",
+  "license": "MIT",
+  "repository": "solzimer/jotason",
+  "keywords": [
+    "json",
+    "circular",
+    "reference",
+    "serialize"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
